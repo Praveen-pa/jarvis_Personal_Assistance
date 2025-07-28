@@ -1,4 +1,4 @@
-Jarvis AI Assistant - Setup Guide
+##Jarvis AI Assistant - Setup Guide
 This file explains how to install and run Jarvis AI Assistant.
 
 Prerequisites
